@@ -3,56 +3,68 @@
     "Physics": {
       "Unit 1": [
         {
-          "name": "MathBlaster C1U1",
-          "url": "https://www.mathblaster.com/"
+          "name": "ohams law",
+          "url": "https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_all.html"
+        },
+        {
+          "name": "Series paraller ckt",
+          "url": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_all.html"
+        },
+        {
+          "name": "electro magnetic ckt",
+          "url": "https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab_all.html"
         }
       ],
       "Unit 2": [
         {
-          "name": "GeoGebra C1U2",
-          "url": "https://www.geogebra.org/"
+          "name": "bending of light",
+          "url": "https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html"
+        },
+        {
+          "name": "Prism ",
+          "url": "https://simpop.org/prism/prism.htm"
         }
       ]
     },
     "Chemistry": {
       "Unit 1": [
         {
-          "name": "PhET C1U1",
-          "url": "https://phet.colorado.edu/"
+          "name": "Atomis structure",
+          "url": "https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_all.html"
         }
       ],
       "Unit 2": [
         {
-          "name": "ChemCollective C1U2",
-          "url": "http://chemcollective.org/"
+          "name": "Periodic Table",
+          "url": "https://artsexperiments.withgoogle.com/periodic-table/"
         }
       ]
     },
     "Math": {
       "Unit 1": [
         {
-          "name": "PhET C1U1",
-          "url": "https://phet.colorado.edu/"
+          "name": "Trigonometry",
+          "url": "https://phet.colorado.edu/sims/html/trig-tour/latest/trig-tour_all.html"
         }
       ],
       "Unit 2": [
         {
-          "name": "ChemCollective C1U2",
-          "url": "http://chemcollective.org/"
+          "name": "Quadratic Equationtion",
+          "url": "https://phet.colorado.edu/sims/html/graphing-quadratics/latest/graphing-quadratics_all.html"
         }
       ]
     },
     "Biology": {
       "Unit 1": [
         {
-          "name": "PhET C1U1",
-          "url": "https://phet.colorado.edu/"
+          "name": "cell biology",
+          "url": "https://phet.colorado.edu/sims/html/neuron/latest/neuron_all.html"
         }
       ],
       "Unit 2": [
         {
-          "name": "ChemCollective C1U2",
-          "url": "http://chemcollective.org/"
+          "name": "Human Digestive system",
+          "url": "https://human.biodigital.com/widget/?be=2UH1&initial.hand-hint=true&ui-fullscreen=false&ui-="
         }
       ]
     }
@@ -61,67 +73,94 @@
     "Physics": {
       "Unit 1": [
         {
-          "name": "MathBlaster C1U1",
-          "url": "https://www.mathblaster.com/"
+          "name": "Refraction through Prism & Lenses",
+          "url": "https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html"
         }
       ],
       "Unit 2": [
         {
-          "name": "GeoGebra C1U2",
-          "url": "https://www.geogebra.org/"
+          "name": "Electromagnetic Induction",
+          "url": "https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab_all.html"
         }
       ]
     },
     "Chemistry": {
       "Unit 1": [
         {
-          "name": "PhET C1U1",
-          "url": "https://phet.colorado.edu/"
+          "name": "Electrolysis of Water",
+          "url": "https://iwant2study.org/lookangejss/chemistryejss/ejss_model_ElectrolysisofWaterVirtualLabv4/index.html"
         }
       ],
       "Unit 2": [
         {
-          "name": "ChemCollective C1U2",
-          "url": "http://chemcollective.org/"
+          "name": "Chemical Kinetics",
+          "url": "https://phet.colorado.edu/sims/cheerpj/reactions-and-rates/latest/reactions-and-rates.html?simulation=reactions-and-rates"
         }
       ]
     },
     "Math": {
       "Unit 1": [
         {
-          "name": "PhET C1U1",
-          "url": "https://phet.colorado.edu/"
+          "name": "Probablity",
+          "url": "https://phet.colorado.edu/sims/html/plinko-probability/latest/plinko-probability_all.html"
         }
       ],
       "Unit 2": [
         {
-          "name": "ChemCollective C1U2",
-          "url": "http://chemcollective.org/"
+          "name": "3D Geometry",
+          "url": "https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition_all.html"
         }
       ]
     },
     "Biology": {
       "Unit 1": [
         {
-          "name": "PhET C1U1",
-          "url": "https://phet.colorado.edu/"
+          "name": "lungs",
+          "url": "https://www.msdmanuals.com/home/multimedia/3dmodel/inside-the-lungs"
         }
       ],
       "Unit 2": [
         {
-          "name": "ChemCollective C1U2",
-          "url": "http://chemcollective.org/"
+          "name": "Male reprpduction System",
+          "url": "https://www.msdmanuals.com/home/multimedia/3dmodel/male-reproductive-system"
         }
       ]
     }
   },
-  
-  "looking for calculator": {
+  "looking for others": {
     "calculator": {
       "Unit 1": [
         {
-          "name": "PhET C3U1",
-          "url": "https://phet.colorado.edu/"
+          "name": "normal",
+          "url": "https://calculator-1.com/simple/"
+        },
+        {
+          "name": "Matrix",
+          "url": "https://www.calculator.net/matrix-calculator.html"
+        },
+        {
+          "name": "Tempareture",
+          "url": "https://www.calculatorsoup.com/calculators/conversions/temperature.php"
+        }
+      ]
+    },
+    "Ai": {
+      "Unit 1": [
+        {
+          "name": "Chat gpt",
+          "url": "https://chatgpt.com/"
+        },
+        {
+          "name": "Gimni",
+          "url": "https://gemini.google.com/app?hl=en-IN"
+        },
+        {
+          "name": "Lama",
+          "url": "https://www.lama.ai/"
+        },
+        {
+          "name": "DeepSeek",
+          "url": "https://chat.deepseek.com/sign_in"
         }
       ]
     }
