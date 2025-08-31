@@ -21,7 +21,7 @@
           "url": "https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html"
         },
         {
-          "name": "Prism ",
+          "name": "Prism",
           "url": "https://simpop.org/prism/prism.htm"
         }
       ]
@@ -49,7 +49,7 @@
       ],
       "Unit 2": [
         {
-          "name": "Quadratic Equationtion",
+          "name": "Quadratic Equation",
           "url": "https://phet.colorado.edu/sims/html/graphing-quadratics/latest/graphing-quadratics_all.html"
         }
       ]
@@ -64,7 +64,7 @@
       "Unit 2": [
         {
           "name": "Human Digestive system",
-          "url": "https://human.biodigital.com/widget/?be=2UH1&initial.hand-hint=true&ui-fullscreen=false&ui-="
+          "url": "https://human.biodigital.com/widget/?be=2UH1&initial.hand-hint=true&ui-fullscreen=false"
         }
       ]
     }
@@ -121,13 +121,13 @@
       ],
       "Unit 2": [
         {
-          "name": "Male reprpduction System",
+          "name": "Male reproduction System",
           "url": "https://www.msdmanuals.com/home/multimedia/3dmodel/male-reproductive-system"
         }
       ]
     }
   },
-  "looking for others": {
+  "oth": {
     "calculator": {
       "Unit 1": [
         {
