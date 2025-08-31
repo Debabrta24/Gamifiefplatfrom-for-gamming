@@ -1,30 +1,138 @@
-
 {
-  "Class 1": {
-    "Math": {
-      "Unit 1": [{"name": "MathBlaster C1U1", "url": "https://www.mathblaster.com/"}],
-      "Unit 2": [{"name": "GeoGebra C1U2", "url": "https://www.geogebra.org/"}]
+  "Class 11": {
+    "Physics": {
+      "Unit 1": [
+        {
+          "name": "MathBlaster C1U1",
+          "url": "https://www.mathblaster.com/"
+        }
+      ],
+      "Unit 2": [
+        {
+          "name": "GeoGebra C1U2",
+          "url": "https://www.geogebra.org/"
+        }
+      ]
     },
-    "Science": {
-      "Unit 1": [{"name": "PhET C1U1", "url": "https://phet.colorado.edu/"}],
-      "Unit 2": [{"name": "ChemCollective C1U2", "url": "http://chemcollective.org/"}]
-    }
-  },
-  "Class 2": {
+    "Chemistry": {
+      "Unit 1": [
+        {
+          "name": "PhET C1U1",
+          "url": "https://phet.colorado.edu/"
+        }
+      ],
+      "Unit 2": [
+        {
+          "name": "ChemCollective C1U2",
+          "url": "http://chemcollective.org/"
+        }
+      ]
+    },
     "Math": {
-      "Unit 1": [{"name": "MathSim C2U1", "url": "https://www.math.com/"}],
-      "Unit 2": [{"name": "GeoSim C2U2", "url": "https://www.geogebra.org/"}]
+      "Unit 1": [
+        {
+          "name": "PhET C1U1",
+          "url": "https://phet.colorado.edu/"
+        }
+      ],
+      "Unit 2": [
+        {
+          "name": "ChemCollective C1U2",
+          "url": "http://chemcollective.org/"
+        }
+      ]
+    },
+    "Biology": {
+      "Unit 1": [
+        {
+          "name": "PhET C1U1",
+          "url": "https://phet.colorado.edu/"
+        }
+      ],
+      "Unit 2": [
+        {
+          "name": "ChemCollective C1U2",
+          "url": "http://chemcollective.org/"
+        }
+      ]
     }
   },
-  "Class 3": {
+  "Class 12": {
+    "Physics": {
+      "Unit 1": [
+        {
+          "name": "MathBlaster C1U1",
+          "url": "https://www.mathblaster.com/"
+        }
+      ],
+      "Unit 2": [
+        {
+          "name": "GeoGebra C1U2",
+          "url": "https://www.geogebra.org/"
+        }
+      ]
+    },
+    "Chemistry": {
+      "Unit 1": [
+        {
+          "name": "PhET C1U1",
+          "url": "https://phet.colorado.edu/"
+        }
+      ],
+      "Unit 2": [
+        {
+          "name": "ChemCollective C1U2",
+          "url": "http://chemcollective.org/"
+        }
+      ]
+    },
+    "Math": {
+      "Unit 1": [
+        {
+          "name": "PhET C1U1",
+          "url": "https://phet.colorado.edu/"
+        }
+      ],
+      "Unit 2": [
+        {
+          "name": "ChemCollective C1U2",
+          "url": "http://chemcollective.org/"
+        }
+      ]
+    },
+    "Biology": {
+      "Unit 1": [
+        {
+          "name": "PhET C1U1",
+          "url": "https://phet.colorado.edu/"
+        }
+      ],
+      "Unit 2": [
+        {
+          "name": "ChemCollective C1U2",
+          "url": "http://chemcollective.org/"
+        }
+      ]
+    }
+  },
+  "B-tech": {
     "Science": {
-      "Unit 1": [{"name": "PhET C3U1", "url": "https://phet.colorado.edu/"}]
+      "Unit 1": [
+        {
+          "name": "PhET C3U1",
+          "url": "https://phet.colorado.edu/"
+        }
+      ]
     }
   },
-   "looking for calculator": {
+  "looking for calculator": {
     "calculator": {
-      "Unit 1": [{"name": "PhET C3U1", "url": "https://phet.colorado.edu/"}]
+      "Unit 1": [
+        {
+          "name": "PhET C3U1",
+          "url": "https://phet.colorado.edu/"
+        }
+      ]
     }
   }
 }
-
